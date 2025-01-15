@@ -25,7 +25,7 @@ RUN \
         --features pulseaudio-backend \
         --root /usr \
         --bin librespot \
-        --version "${LIBRESPOT_VERSION}" \
+        --version "0.6.0" \
         --verbose \ 
         -- librespot \
     \
